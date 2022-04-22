@@ -11,10 +11,10 @@ setup(
     name='LambdaEval',
     version='0.1.0',
     description='LambdaEval',
-    long_description="readme",
+    long_description=readme,
     author='Matei Chesa',
     author_email='mic35@cam.ac.uk',
-    #url='https://gitlab.developers.cam.ac.uk/mic35/smart-project/',
-    license="license",
+    url='https://github.com/Berindei/Prolog-Lambda-Eval/',
+    license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
